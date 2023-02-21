@@ -1,0 +1,5 @@
+{
+     "db":"mongodb+srv://omar:0000@cluster0.g8vqmyp.mongodb.net/commerce?retryWrites=true&w=majority",
+     "secret":"shhhh"
+   
+}
